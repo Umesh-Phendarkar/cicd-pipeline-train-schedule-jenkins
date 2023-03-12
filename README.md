@@ -1,4 +1,4 @@
-# cicd-pipeline-train-schedule-jenkins- ---- AT 2025-- Come Soon...
+# cicd-pipeline-train-schedule-jenkins- ---- AT 2023--- At May -25.. Com FAst ..
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
